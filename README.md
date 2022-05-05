@@ -2,7 +2,7 @@
 This is a collection of all of the projects I've completed during my Computational Physics course taken at High Point University.
 
 Project 0: 
-  This project is a simulation of a non-traditional plinko board where instead of the ball going through the bottom well, it bounces back up and continues until the WHILE loop is completed. The purpose was to look at how the radius of the ball compared to the rods effects where the ball will land. I plotted the average position of where the ball would land each time. 
+  This project is a simulation of a non-traditional plinko board where instead of the ball going through the bottom well, it bounces back up and continues until the WHILE loop is completed. The purpose was to look at how the radius of the ball compared to the rods effects where the ball will land. I plotted the average position of where the ball would land each time. https://github.com/HecTicMoose/PHY2200-Portfolio/blob/feb88da36f6044cd2df7d40a04c4db05265f3a8f/Project%200
   
 Project 01: 
   This project is a simulation of a double pendulum where I look at and analyse how changining the lengnth and masses of each rod and ball effect the chatoic motion. 
