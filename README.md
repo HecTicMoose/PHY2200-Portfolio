@@ -1,5 +1,5 @@
 # PHY2200-Portfolio
-This is a collection of all of the projects I've completed during my Computational Physics course taken at High Point University.
+This is a collection of all of the projects I've completed during a computational physics course taken at High Point University in the spring semester of 2022.
 
 Project 0: 
   This project is a simulation of a non-traditional plinko board where instead of the ball going through the bottom well, it bounces back up and continues until the WHILE loop is completed. The purpose was to look at how the radius of the ball compared to the rods effects where the ball will land. I plotted the average position of where the ball would land each time. https://github.com/HecTicMoose/PHY2200-Portfolio/blob/feb88da36f6044cd2df7d40a04c4db05265f3a8f/Project%200
