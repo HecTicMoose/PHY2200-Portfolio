@@ -11,7 +11,7 @@ Project 02:
   This project is a copy of the popular IOS game Paper Toss. I implemented drag coefficients to calculate the flight of the ball and made it interactive so the user can imput their own intial angle to throw the ball. https://github.com/HecTicMoose/PHY2200-Portfolio/blob/3883eb0fb3055c0eb78d0d170ea84c10a5d07e16/Project%2002
   
 Project 03: 
-  This project is a simulation of a fixed and free ended oscillator. The goal was to simulate a free and fixed end oscillator and plot the oscillations of each mass. 
+  This project is a simulation of a fixed and free ended oscillator. The goal was to model a free and fixed end oscillator and plot the oscillations of each mass. https://github.com/HecTicMoose/PHY2200-Portfolio/blob/4c48836f382d013e7339f24d0ac10f5b7782cf8b/Project%2003
   
 Final Project: 
   This project uses modified node analysis to represent a circuit using matrices. It only involves passive elements like resistors and independent sources in a circuit. 
