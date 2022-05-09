@@ -8,7 +8,7 @@ Project 01:
   This project is a simulation of a double pendulum where I look at and analyse how changining the lengnth and masses of each rod and ball effect the chatoic motion. https://github.com/HecTicMoose/PHY2200-Portfolio/blob/5f0b8ebd92f3275610759fcb1399cd9c06ab3b5d/Double%20Pendulum%20Nick.ipynb
   
 Project 02: 
-  This project is a copy of the popular IOS game Paper Toss. I implemented drag coefficients to calculate the flight of the ball and made it interactive so the user can imput their own intial angle to throw the ball. https://github.com/HecTicMoose/PHY2200-Portfolio/blob/3883eb0fb3055c0eb78d0d170ea84c10a5d07e16/Project%2002
+  This project is a copy of the popular IOS game Paper Toss. I implemented drag coefficients to calculate the flight of the ball and made it interactive so the user can imput their own intial angle to throw the ball. https://github.com/HecTicMoose/PHY2200-Portfolio/blob/99e47723ffc1624f64a2a89169c51bd8fa4f469d/Paper_Toss.ipynb
   
 Project 03: 
   This project is a simulation of a fixed and free ended oscillator. The goal was to model a free and fixed end oscillator and plot the oscillations of each mass. https://github.com/HecTicMoose/PHY2200-Portfolio/blob/4c48836f382d013e7339f24d0ac10f5b7782cf8b/Project%2003
