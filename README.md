@@ -14,4 +14,4 @@ Project 03:
   This project is a simulation of a fixed and free ended oscillator. The goal was to model a free and fixed end oscillator and plot the oscillations of each mass. https://github.com/HecTicMoose/PHY2200-Portfolio/blob/549542daa45f916b1410d35c1f7f95e63feb6e00/Free-Fixed_Oscillator.ipynb
   
 Final Project: 
-  This project uses modified node analysis to represent a circuit using matrices. It only involves passive elements like resistors and independent sources in a circuit. https://github.com/HecTicMoose/PHY2200-Portfolio/blob/b631c689fe649aef045e6949a35cec59d858c6c9/Final%20Project
+  This project uses modified node analysis to represent a circuit using matrices. It only involves passive elements like resistors and independent sources in a circuit. https://github.com/HecTicMoose/PHY2200-Portfolio/blob/bfa23f653d4ff6f870060df7a6518b523ed5cd91/FinalProject-ModifiedNodeAnalysis%20.ipynb
